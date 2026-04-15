@@ -32,7 +32,7 @@ This project is a Power BI dashboard built using Android app data to analyze app
 
 ## 📷 Dashboard Preview
 
-![Dashboard](App_Analytics_DAshboard.png)
+![Dashboard](App_Analytics_Dashboard.png)
 ![Dashboard](User_Behaviour_Dashboard.png)
 
 ---
